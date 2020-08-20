@@ -1,0 +1,1337 @@
+[
+	{
+		"name": "liril",
+		"country": "india",
+		"category": "soap"
+	},
+	{
+		"name": "breeze",
+		"country": "india",
+		"category": "soap"
+	},
+	{
+		"name": "lux",
+		"country": "foreign",
+		"category": "soap"
+	},
+	{
+		"name": "dettol",
+		"country": "india",
+		"category": "soap"
+	},
+	{
+		"name": "rexona",
+		"country": "india",
+		"category": "soap"
+	},
+	{
+		"name": "johnson's",
+		"country": "foreign",
+		"category": "soap"
+	},
+	{
+		"name": "hamam",
+		"country": "india",
+		"category": "soap"
+	},
+	{
+		"name": "savlon",
+		"country": "indian",
+		"category": "soap"
+	},
+	{
+		"name": "lifebuoy",
+		"country": "foreign",
+		"category": "soap"
+	},
+	{
+		"name": "pears",
+		"country": "india",
+		"category": "soap"
+	},
+	{
+		"name": "dove",
+		"country": "foreign",
+		"category": "soap"
+	},
+	{
+		"name": "medimix",
+		"country": "india",
+		"category": "skincare"
+	},
+	{
+		"name": "santoor",
+		"country": "india",
+		"category": "soap"
+	},
+	{
+		"name": "kevda",
+		"country": "india",
+		"category": "soap"
+	},
+	{
+		"name": "cinthol",
+		"country": "foreign",
+		"category": "soap"
+	},
+	{
+		"name": "godrej",
+		"country": "india",
+		"category": "soap"
+	},
+	{
+		"name": "nirma",
+		"country": "india",
+		"category": "soap"
+	},
+	{
+		"name": "himalaya",
+		"country": "india",
+		"category": "soap"
+	},
+	{
+		"name": "eveready",
+		"country": "india",
+		"category": "battery"
+	},
+	{
+		"name": "duracell",
+		"country": "foreign",
+		"category": "battery"
+	},
+	{
+		"name": "panasonic",
+		"country": "foreign",
+		"category": "battery"
+	},
+	{
+		"name": "nippo",
+		"country": "india",
+		"category": "battery"
+	},
+	{
+		"name": "honda",
+		"country": "foreign",
+		"category": "automobile"
+	},
+	{
+		"name": "toyota",
+		"country": "foreign",
+		"category": "automobile"
+	},
+	{
+		"name": "hyundai",
+		"country": "foreign",
+		"category": "automobile"
+	},
+	{
+		"name": "renault",
+		"country": "foreign",
+		"category": "automobile"
+	},
+	{
+		"name": "datsun",
+		"country": "foreign",
+		"category": "automobile"
+	},
+	{
+		"name": "ford",
+		"country": "foreign",
+		"category": "automobile"
+	},
+	{
+		"name": "kia",
+		"country": "foreign",
+		"category": "automobile"
+	},
+	{
+		"name": "mg hector",
+		"country": "foreign",
+		"category": "automobile"
+	},
+	{
+		"name": "volkswagen",
+		"country": "foreign",
+		"category": "automobile"
+	},
+	{
+		"name": "ashok leyland",
+		"country": "india",
+		"category": "automobile"
+	},
+	{
+		"name": "bajaj",
+		"country": "india",
+		"category": "automobile"
+	},
+	{
+		"name": "hindustan motors",
+		"country": "india",
+		"category": "automobile"
+	},
+	{
+		"name": "mahindra",
+		"country": "india",
+		"category": "automobile"
+	},
+	{
+		"name": "tata",
+		"country": "india",
+		"category": "automobile"
+	},
+	{
+		"name": "maruti suzuki",
+		"country": "india",
+		"category": "automobile"
+	},
+	{
+		"name": "suzuki",
+		"country": "foreign",
+		"category": "automobile"
+	},
+	{
+		"name": "tropicana",
+		"country": "india",
+		"category": "fruit juice"
+	},
+	{
+		"name": "b natural",
+		"country": "india",
+		"category": "fruit juice"
+	},
+	{
+		"name": "pepsi",
+		"country": "foreign",
+		"category": "soft drink"
+	},
+	{
+		"name": "coke",
+		"country": "foreign",
+		"category": "soft drink"
+	},
+	{
+		"name": "coca cola",
+		"country": "foreign",
+		"category": "soft drink"
+	},
+	{
+		"name": "thums up",
+		"country": "foreign",
+		"category": "soft drink"
+	},
+	{
+		"name": "real juice",
+		"country": "india",
+		"category": "fruit juice"
+	},
+	{
+		"name": "frooti",
+		"country": "india",
+		"category": "fruit juice"
+	},
+	{
+		"name": "maaza",
+		"country": "foreign",
+		"category": "fruit juice"
+	},
+	{
+		"name": "sprite",
+		"country": "foreign",
+		"category": "soft drink"
+	},
+	{
+		"name": "slice",
+		"country": "foreign",
+		"category": "fruit juice"
+	},
+	{
+		"name": "kwality walls",
+		"country": "india",
+		"category": "ice cream"
+	},
+	{
+		"name": "amul",
+		"country": "india",
+		"category": "dairy"
+	},
+	{
+		"name": "mother dairy",
+		"country": "india",
+		"category": "dairy"
+	},
+	{
+		"name": "vadilal",
+		"country": "india",
+		"category": "ice cream"
+	},
+	{
+		"name": "cornetto",
+		"country": "foreign",
+		"category": "ice cream"
+	},
+	{
+		"name": "starbucks",
+		"country": "foreign",
+		"category": "cafe"
+	},
+	{
+		"name": "cafe coffee day",
+		"country": "india",
+		"category": "cafe"
+	},
+	{
+		"name": "glow and lovely",
+		"country": "india",
+		"category": "skincare"
+	},
+	{
+		"name": "ponds",
+		"country": "foreign",
+		"category": "skincare"
+	},
+	{
+		"name": "lakme",
+		"country": "foreign",
+		"category": "skincare"
+	},
+	{
+		"name": "oley",
+		"country": "foreign",
+		"category": "skincare"
+	},
+	{
+		"name": "nivea",
+		"country": "foreign",
+		"category": "skincare"
+	},
+	{
+		"name": "lotus",
+		"country": "india",
+		"category": "skincare"
+	},
+	{
+		"name": "fem",
+		"country": "india",
+		"category": "skincare"
+	},
+	{
+		"name": "roop mantra",
+		"country": "india",
+		"category": "skincare"
+	},
+	{
+		"name": "patanjali",
+		"country": "india",
+		"category": "all"
+	},
+	{
+		"name": "hindustan unilever",
+		"country": "india",
+		"category": "all"
+	},
+	{
+		"name": "itc",
+		"country": "india",
+		"category": "all"
+	},
+	{
+		"name": "vicco",
+		"country": "india",
+		"category": "skincare"
+	},
+	{
+		"name": "fiama",
+		"country": "india",
+		"category": "skincare"
+	},
+	{
+		"name": "garnier",
+		"country": "foreign",
+		"category": "skincare"
+	},
+	{
+		"name": "dabur",
+		"country": "india",
+		"category": "all"
+	},
+	{
+		"name": "pepsodent",
+		"country": "india",
+		"category": "dental care"
+	},
+	{
+		"name": "colgate",
+		"country": "foreign",
+		"category": "dental care"
+	},
+	{
+		"name": "sensodyne",
+		"country": "foreign",
+		"category": "dental care"
+	},
+	{
+		"name": "oral b",
+		"country": "foreign",
+		"category": "dental care"
+	},
+	{
+		"name": "close up",
+		"country": "foreign",
+		"category": "dental care"
+	},
+	{
+		"name": "meswak",
+		"country": "india",
+		"category": "dental care"
+	},
+	{
+		"name": "babool",
+		"country": "india",
+		"category": "dental care"
+	},
+	{
+		"name": "gillete",
+		"country": "foreign",
+		"category": "health care"
+	},
+	{
+		"name": "axe",
+		"country": "india",
+		"category": "health care"
+	},
+	{
+		"name": "palmolive",
+		"country": "foreign",
+		"category": "health care"
+	},
+	{
+		"name": "vi john",
+		"country": "india",
+		"category": "health care"
+	},
+	{
+		"name": "park avenue",
+		"country": "india",
+		"category": "health care"
+	},
+	{
+		"name": "rin",
+		"country": "india",
+		"category": "detergent"
+	},
+	{
+		"name": "tide",
+		"country": "foreign",
+		"category": "detergent"
+	},
+	{
+		"name": "areil",
+		"country": "foreign",
+		"category": "detergent"
+	},
+	{
+		"name": "surf excel",
+		"country": "india",
+		"category": "detergent"
+	},
+	{
+		"name": "vanish",
+		"country": "foreign",
+		"category": "detergent"
+	},
+	{
+		"name": "active wheel",
+		"country": "india",
+		"category": "detergent"
+	},
+	{
+		"name": "ujala",
+		"country": "india",
+		"category": "detergent"
+	},
+	{
+		"name": "ghadi",
+		"country": "india",
+		"category": "detergent"
+	},
+	{
+		"name": "nirma",
+		"country": "india",
+		"category": "detergent"
+	},
+	{
+		"name": "moov",
+		"country": "foreign",
+		"category": "balm"
+	},
+	{
+		"name": "iodex",
+		"country": "india",
+		"category": "balm"
+	},
+	{
+		"name": "volini",
+		"country": "india",
+		"category": "balm"
+	},
+	{
+		"name": "fast relief",
+		"country": "india",
+		"category": "balm"
+	},
+	{
+		"name": "streax",
+		"country": "india",
+		"category": "hair care"
+	},
+	{
+		"name": "neha",
+		"country": "india",
+		"category": "hair care"
+	},
+	{
+		"name": "dermi cool",
+		"country": "foreign",
+		"category": "talcum powder"
+	},
+	{
+		"name": "nycil",
+		"country": "india",
+		"category": "talcum powder"
+	},
+	{
+		"name": "cinthol",
+		"country": "india",
+		"category": "talcum powder"
+	},
+	{
+		"name": "boro plus",
+		"country": "india",
+		"category": "skin cream"
+	},
+	{
+		"name": "navratna",
+		"country": "india",
+		"category": "talcum powder"
+	},
+	{
+		"name": "bombay dyeing",
+		"country": "india",
+		"category": "clothing"
+	},
+	{
+		"name": "peter england",
+		"country": "india",
+		"category": "clothing"
+	},
+	{
+		"name": "vip",
+		"country": "india",
+		"category": "clothing"
+	},
+	{
+		"name": "raymond",
+		"country": "india",
+		"category": "clothing"
+	},
+	{
+		"name": "rupa",
+		"country": "india",
+		"category": "clothing"
+	},
+	{
+		"name": "siyarams",
+		"country": "india",
+		"category": "clothing"
+	},
+	{
+		"name": "wrangler",
+		"country": "foreign",
+		"category": "clothing"
+	},
+	{
+		"name": "nike",
+		"country": "foreign",
+		"category": "clothing"
+	},
+	{
+		"name": "adidas",
+		"country": "foreign",
+		"category": "clothing"
+	},
+	{
+		"name": "reebok",
+		"country": "foreign",
+		"category": "clothing"
+	},
+	{
+		"name": "puma",
+		"country": "foreign",
+		"category": "clothing"
+	},
+	{
+		"name": "titan",
+		"country": "india",
+		"category": "watches"
+	},
+	{
+		"name": "maxima",
+		"country": "india",
+		"category": "watches"
+	},
+	{
+		"name": "prestige",
+		"country": "india",
+		"category": "household"
+	},
+	{
+		"name": "tata",
+		"country": "india",
+		"category": "watches"
+	},
+	{
+		"name": "fastrack",
+		"country": "india",
+		"category": "watches"
+	},
+	{
+		"name": "sonata",
+		"country": "india",
+		"category": "watches"
+	},
+	{
+		"name": "ajanta",
+		"country": "india",
+		"category": "watches"
+	},
+	{
+		"name": "rado",
+		"country": "foreign",
+		"category": "watches"
+	},
+	{
+		"name": "rolex",
+		"country": "foreign",
+		"category": "watches"
+	},
+	{
+		"name": "swissco",
+		"country": "foreign",
+		"category": "watches"
+	},
+	{
+		"name": "cello",
+		"country": "india",
+		"category": "stationary"
+	},
+	{
+		"name": "linc",
+		"country": "india",
+		"category": "stationary"
+	},
+	{
+		"name": "montex",
+		"country": "india",
+		"category": "stationary"
+	},
+	{
+		"name": "apsara",
+		"country": "india",
+		"category": "stationary"
+	},
+	{
+		"name": "natraj",
+		"country": "india",
+		"category": "stationary"
+	},
+	{
+		"name": "faber castell",
+		"country": "foreign",
+		"category": "stationary"
+	},
+	{
+		"name": "parker",
+		"country": "foreign",
+		"category": "stationary"
+	},
+	{
+		"name": "rotomac",
+		"country": "foreign",
+		"category": "stationary"
+	},
+	{
+		"name": "mitsubishi",
+		"country": "foreign",
+		"category": "stationary"
+	},
+	{
+		"name": "uniball",
+		"country": "foreign",
+		"category": "stationary"
+	},
+	{
+		"name": "pilot",
+		"country": "foreign",
+		"category": "stationary"
+	},
+	{
+		"name": "rooh afza",
+		"country": "india",
+		"category": "soft drinks"
+	},
+	{
+		"name": "rasna",
+		"country": "india",
+		"category": "soft drinks"
+	},
+	{
+		"name": "mirinda",
+		"country": "foreign",
+		"category": "soft drinks"
+	},
+	{
+		"name": "nestle",
+		"country": "foreign",
+		"category": "agro"
+	},
+	{
+		"name": "kissan",
+		"country": "foreign",
+		"category": "agro"
+	},
+	{
+		"name": "lipton",
+		"country": "foreign",
+		"category": "beverage"
+	},
+	{
+		"name": "red label",
+		"country": "foreign",
+		"category": "beverage"
+	},
+	{
+		"name": "nescafe",
+		"country": "foreign",
+		"category": "beverage"
+	},
+	{
+		"name": "bru",
+		"country": "foreign",
+		"category": "beverage"
+	},
+	{
+		"name": "taj mahal",
+		"country": "foreign",
+		"category": "beverage"
+	},
+	{
+		"name": "cadbury",
+		"country": "foreign",
+		"category": "chocolate"
+	},
+	{
+		"name": "bournvita",
+		"country": "foreign",
+		"category": "beverage"
+	},
+	{
+		"name": "horlicks",
+		"country": "foreign",
+		"category": "beverage"
+	},
+	{
+		"name": "parle",
+		"country": "india",
+		"category": "agro"
+	},
+	{
+		"name": "priyagold",
+		"country": "india",
+		"category": "biscuit"
+	},
+	{
+		"name": "anmol",
+		"country": "india",
+		"category": "biscuit"
+	},
+	{
+		"name": "britannia",
+		"country": "india",
+		"category": "agro"
+	},
+	{
+		"name": "bisleri",
+		"country": "india",
+		"category": "water"
+	},
+	{
+		"name": "bailey",
+		"country": "india",
+		"category": "water"
+	},
+	{
+		"name": "kingfisher",
+		"country": "india",
+		"category": "water"
+	},
+	{
+		"name": "rail neer",
+		"country": "india",
+		"category": "water"
+	},
+	{
+		"name": "himalaya",
+		"country": "india",
+		"category": "water"
+	},
+	{
+		"name": "ganga",
+		"country": "india",
+		"category": "water"
+	},
+	{
+		"name": "aquafina",
+		"country": "foreign",
+		"category": "water"
+	},
+	{
+		"name": "kinley",
+		"country": "foreign",
+		"category": "water"
+	},
+	{
+		"name": "chyavan prash",
+		"country": "india",
+		"category": "agro"
+	},
+	{
+		"name": "complan",
+		"country": "foreign",
+		"category": "beverage"
+	},
+	{
+		"name": "protineX",
+		"country": "foreign",
+		"category": "beverage"
+	},
+	{
+		"name": "videocon",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "voltas",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "godrej",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "bpl",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "wipro",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "onida",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "orpat",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "oscar",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "cosmic",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "crown",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "bajaj",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "usha",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "polar",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "anchor",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "surya",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "oriet",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "crompton",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "blue star",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "voltas",
+		"country": "india",
+		"category": "electronic"
+	},
+	{
+		"name": "LG",
+		"country": "foreign",
+		"category": "electronic"
+	},
+	{
+		"name": "samsung",
+		"country": "foreign",
+		"category": "electronic"
+	},
+	{
+		"name": "phillips",
+		"country": "foreign",
+		"category": "electronic"
+	},
+	{
+		"name": "hyundai",
+		"country": "foreign",
+		"category": "electronic"
+	},
+	{
+		"name": "sony",
+		"country": "foreign",
+		"category": "electronic"
+	},
+	{
+		"name": "toshiba",
+		"country": "foreign",
+		"category": "electronic"
+	},
+	{
+		"name": "hitachi",
+		"country": "foreign",
+		"category": "electronic"
+	},
+	{
+		"name": "haier",
+		"country": "foreign",
+		"category": "electronic"
+	},
+	{
+		"name": "akai",
+		"country": "foreign",
+		"category": "electronic"
+	},
+	{
+		"name": "airtel",
+		"country": "india",
+		"category": "telecom"
+	},
+	{
+		"name": "idea",
+		"country": "india",
+		"category": "telecom"
+	},
+	{
+		"name": "tata",
+		"country": "india",
+		"category": "telecom"
+	},
+	{
+		"name": "reliance",
+		"country": "india",
+		"category": "telecom"
+	},
+	{
+		"name": "jio",
+		"country": "india",
+		"category": "telecom"
+	},
+	{
+		"name": "bsnl",
+		"country": "india",
+		"category": "telecom"
+	},
+	{
+		"name": "mtnl",
+		"country": "india",
+		"category": "telecom"
+	},
+	{
+		"name": "aircel",
+		"country": "foreign",
+		"category": "telecom"
+	},
+	{
+		"name": "vodafone",
+		"country": "foreign",
+		"category": "telecom"
+	},
+	{
+		"name": "docomo",
+		"country": "foreign",
+		"category": "telecom"
+	},
+	{
+		"name": "uninor",
+		"country": "india",
+		"category": "foreign"
+	},
+	{
+		"name": "bahamas",
+		"country": "india",
+		"category": "footwear"
+	},
+	{
+		"name": "liberty",
+		"country": "india",
+		"category": "footwear"
+	},
+	{
+		"name": "lakhani",
+		"country": "india",
+		"category": "footwear"
+	},
+	{
+		"name": "action",
+		"country": "india",
+		"category": "footwear"
+	},
+	{
+		"name": "welcome",
+		"country": "india",
+		"category": "footwear"
+	},
+	{
+		"name": "rexono",
+		"country": "india",
+		"category": "footwear"
+	},
+	{
+		"name": "relaxo",
+		"country": "india",
+		"category": "footwear"
+	},
+	{
+		"name": "sparx",
+		"country": "india",
+		"category": "footwear"
+	},
+	{
+		"name": "lotus",
+		"country": "india",
+		"category": "footwear"
+	},
+	{
+		"name": "red tape",
+		"country": "india",
+		"category": "footwear"
+	},
+	{
+		"name": "finix",
+		"country": "india",
+		"category": "footwear"
+	},
+	{
+		"name": "flash",
+		"country": "india",
+		"category": "footwear"
+	},
+	{
+		"name": "carona",
+		"country": "india",
+		"category": "footwear"
+	},
+	{
+		"name": "adidas",
+		"country": "foreign",
+		"category": "footwear"
+	},
+	{
+		"name": "nike",
+		"country": "foreign",
+		"category": "footwear"
+	},
+	{
+		"name": "puma",
+		"country": "foreign",
+		"category": "footwear"
+	},
+	{
+		"name": "bata",
+		"country": "foreign",
+		"category": "footwear"
+	},
+	{
+		"name": "woodland",
+		"country": "foreign",
+		"category": "footwear"
+	},
+	{
+		"name": "eicher",
+		"country": "india",
+		"category": "automobile"
+	},
+	{
+		"name": "enfield",
+		"country": "india",
+		"category": "automobile"
+	},
+	{
+		"name": "hero",
+		"country": "india",
+		"category": "automobile"
+	},
+	{
+		"name": "swaraj",
+		"country": "india",
+		"category": "automobile"
+	},
+	{
+		"name": "tvs",
+		"country": "india",
+		"category": "automobile"
+	},
+	{
+		"name": "chevrolet",
+		"country": "foreign",
+		"category": "automobile"
+	},
+	{
+		"name": "nissan",
+		"country": "foreign",
+		"category": "automobile"
+	},
+	{
+		"name": "yamaha",
+		"country": "foreign",
+		"category": "automobile"
+	},
+	{
+		"name": "samsung",
+		"country": "foreign",
+		"category": "mobile phone"
+	},
+	{
+		"name": "apple",
+		"country": "foreign",
+		"category": "mobile phone"
+	},
+	{
+		"name": "nokia",
+		"country": "foreign",
+		"category": "mobile phone"
+	},
+	{
+		"name": "xiaomi",
+		"country": "foreign",
+		"category": "mobile phone"
+	},
+	{
+		"name": "honor",
+		"country": "foreign",
+		"category": "mobile phone"
+	},
+	{
+		"name": "poco",
+		"country": "foreign",
+		"category": "mobile phone"
+	},
+	{
+		"name": "oppo",
+		"country": "foreign",
+		"category": "mobile phone"
+	},
+	{
+		"name": "motorola",
+		"country": "foreign",
+		"category": "mobile phone"
+	},
+	{
+		"name": "lava",
+		"country": "india",
+		"category": "mobile phone"
+	},
+	{
+		"name": "asus",
+		"country": "foreign",
+		"category": "mobile phone"
+	},
+	{
+		"name": "nubia",
+		"country": "india",
+		"category": "mobile phone"
+	},
+	{
+		"name": "micromax",
+		"country": "india",
+		"category": "mobile phone"
+	},
+	{
+		"name": "intex",
+		"country": "india",
+		"category": "mobile phone"
+	},
+	{
+		"name": "karbonn",
+		"country": "india",
+		"category": "mobile phone"
+	},
+	{
+		"name": "panasonic",
+		"country": "foreign",
+		"category": "mobile phone"
+	},
+	{
+		"name": "huawei",
+		"country": "foreign",
+		"category": "mobile phone"
+	},
+	{
+		"name": "coolpad",
+		"country": "foreign",
+		"category": "mobile phone"
+	},
+	{
+		"name": "xolo",
+		"country": "foreign",
+		"category": "mobile phone"
+	},
+	{
+		"name": "sony",
+		"country": "foreign",
+		"category": "mobile phone"
+	},
+	{
+		"name": "htc",
+		"country": "foreign",
+		"category": "mobile phone"
+	},
+	{
+		"name": "hp",
+		"country": "foreign",
+		"category": "laptop/pc"
+	},
+	{
+		"name": "asus",
+		"country": "foreign",
+		"category": "laptop/pc"
+	},
+	{
+		"name": "msi",
+		"country": "foreign",
+		"category": "laptop/pc"
+	},
+	{
+		"name": "apple",
+		"country": "foreign",
+		"category": "laptop/pc"
+	},
+	{
+		"name": "lenovo",
+		"country": "foreign",
+		"category": "laptop/pc"
+	},
+	{
+		"name": "microsoft",
+		"country": "foreign",
+		"category": "laptop/pc"
+	},
+	{
+		"name": "hcl",
+		"country": "foreign",
+		"category": "laptop/pc"
+	},
+	{
+		"name": "iball",
+		"country": "india",
+		"category": "laptop/pc"
+	},
+	{
+		"name": "dell",
+		"country": "foreign",
+		"category": "laptop/pc"
+	},
+	{
+		"name": "acer",
+		"country": "foreign",
+		"category": "laptop/pc"
+	},
+	{
+		"name": "asus",
+		"country": "foreign",
+		"category": "pc hardware"
+	},
+	{
+		"name": "corsair",
+		"country": "foreign",
+		"category": "pc hardware"
+	},
+	{
+		"name": "gigabyte",
+		"country": "foreign",
+		"category": "pc hardware"
+	},
+	{
+		"name": "seagate",
+		"country": "foreign",
+		"category": "pc hardware"
+	},
+	{
+		"name": "intel",
+		"country": "foreign",
+		"category": "pc hardware"
+	},
+	{
+		"name": "amd",
+		"country": "foreign",
+		"category": "pc hardware"
+	},
+	{
+		"name": "zotac",
+		"country": "foreign",
+		"category": "pc hardware"
+	},
+	{
+		"name": "nvidia",
+		"country": "foreign",
+		"category": "pc hardware"
+	},
+	{
+		"name": "mediatek",
+		"country": "foreign",
+		"category": "pc hardware"
+	}
+]

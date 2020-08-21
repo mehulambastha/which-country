@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+		<link rel="manifest" href="/site.webmanifest" />
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+		<meta name="msapplication-TileColor" content="#da532c" />
+		<meta name="theme-color" content="#ffffff" />
+
+		<meta charset="UTF-8" />
+		<link rel="stylesheet" href="css/bootstrap.min.css" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<style>
+			#match-list {
+				overflow-y: scroll;
+				max-height: 70vh;
+			}
+
+			body {
+				max-height: 100vh;
+			}
+
+			#match-list img {
+				width: 2.5rem;
+			}
+			.h2-img {
+				width: 5rem;
+			}
+		</style>
+		<title>Indian or not ?</title>
+	</head>
+
+	<body>
+		<div class="container mt-3">
+			<div class="row">
+				<div class="col-md-6 m-auto">
+					<h3 class="text-center mb-3 text-uppercase">
+						<img src="assets/india.png" alt="pic" class="img-rounded h2-img" />
+						Indian or not ?
+					</h3>
+					<div class="form-group">
+						<input
+							type="text"
+							class="form-control form-control-lg"
+							id="search"
+							placeholder="Search brand name or category of brands"
+						/>
+						<label for="search" class="mt-2"
+							>For example: search "colgate" (in brands) or "electronics" (in
+							categories)</label
+						>
+					</div>
+					<div id="match-list"></div>
+				</div>
+			</div>
+		</div>
+		<script src="app.js"></script>
+	</body>
+</html>
